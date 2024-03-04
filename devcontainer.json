@@ -1,7 +1,6 @@
 {
   "name": "Java 11 & Maven",
-  "dockerFile": "../Dockerfile",
-  "context": "..",
+  "dockerFile": "./.devcontainer/Dockerfile",
   "appPort": [8080],
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
